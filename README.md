@@ -1,7 +1,7 @@
 # Epson Printer Integration for Home Assistant
 
 <p align="center">
-  <img src="https://global.epson.com/assets/images/corporate/logo.svg" width="200" alt="Epson Logo">
+  <img src="https://global.epson.com/assets/img/logo.svg" width="200" alt="Epson Logo">
 </p>
 
 [![GitHub Release][releases-shield]][releases]
