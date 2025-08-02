@@ -1,0 +1,10 @@
+{
+  "name": "Epson Printer Monitor",
+  "hacs": "2.0.5",
+  "content_in_root": false,
+  "filename": "epson_printer",
+  "homeassistant": "2023.1.0",
+  "iot_class": "Local Polling",
+  "render_readme": true,
+  "zip_release": false
+}
