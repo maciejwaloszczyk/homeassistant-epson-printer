@@ -25,8 +25,8 @@ A Home Assistant custom integration for Epson Network Printers that allows you t
 ## Supported Devices
 
 - Epson network printers with ink level reporting capability
-- Tested with various Epson inkjet printer models
 - Requires network connectivity (IP address access)
+- Static IPv4 is recommended
 
 ## Installation
 
@@ -139,13 +139,7 @@ automation:
 
 ## Testing
 
-Use the included test script to verify printer connectivity before setup:
-
-```bash
-python test_printer.py 192.168.0.5
-```
-
-This will test the connection and display current ink levels.
+The integration has been tested with the Epson EcoTank ET-4700 model.
 
 ## Troubleshooting
 
@@ -201,7 +195,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GPL 3.0 License - see the [LICENSE](LICENSE) file for details.
 
 ## Support
 
